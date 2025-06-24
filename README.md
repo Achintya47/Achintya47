@@ -64,7 +64,7 @@ Whether it’s fine-tuning LLMs, simulating investment strategies, building mess
 
 ## 🌐 Let's Connect
 
-<p>
+<p align='center'>
   <a href="https://linkedin.com/in/achintyasharma47" target="_blank", align='center'>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>

@@ -21,11 +21,9 @@ Whether it’s fine-tuning LLMs, simulating investment strategies, building mess
 
 - 🤖 Reinforcement Learning (built agents for Taxi, Cartpole, and beyond)
 - 🧱 Blockchain (Proof-of-Work, P2P via sockets, mining, digital signatures)
-- 💰 Quantitative Finance (Kelly Criterion, Monte Carlo Simulations)
 - 📊 Machine Learning (Sklearn, PyTorch, LightGBM, ensemble modeling)
 - 📦 Backend Engineering (Flask, MongoDB, WebSockets, REST APIs)
 - 📡 Embedded Systems (ESP32 + RFID + Serial comm + real-time syncing)
-- ⚙️ GPU Programming (CUDA kernels & custom acceleration)
 - 🔧 Mechanical Optimization (Altair Inspire projects with real use-cases)
 
 ---
@@ -36,7 +34,6 @@ Whether it’s fine-tuning LLMs, simulating investment strategies, building mess
 |--------|-------------|
 | 🍽️ **Digital Muneem** | End-to-end mess management system using ESP32 & RFID cards. Real-time balances, compulsory meal tracking, and Flask backend with MongoDB. |
 | 🧱 **Blockchain Engine** | A custom Python blockchain using sockets, multithreading, and mining. Features PoW, longest chain consensus, and future CUDA acceleration. |
-| 📈 **Finance Simulation Models** | Built tools for risk analysis, Kelly Criterion-based portfolio sizing, and Monte Carlo simulations for long-term forecasting. |
 | ⚙️ **Altair Optimization** | Designed and optimized real-world mechanisms like prosthetic footplates and hand pumps for rural India, using Altair Inspire. |
 | 🎮 **RL from Scratch** | Implemented Deep Q-Learning with my own MLP to learn environments like CartPole and Lunar Lander without libraries like SB3. |
 
@@ -48,7 +45,6 @@ Whether it’s fine-tuning LLMs, simulating investment strategies, building mess
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
@@ -70,10 +66,10 @@ Whether it’s fine-tuning LLMs, simulating investment strategies, building mess
 ## 🌐 Let's Connect
 
 <p>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://linkedin.com/in/achintyasharma47" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://medium.com/@yourusername" target="_blank">
+  <a href="https://medium.com/@sharmaachintya49" target="_blank">
     <img src="https://img.shields.io/badge/Medium-black?style=flat-square&logo=medium&logoColor=white"/>
   </a>
 </p>

@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Hey, I'm Achintya Sharma 👋</h1>
-<h3 align="center">🧠 AI/ML Builder | ⚙️ Embedded Systems Hacker | 💹 Finance Explorer | 🔬 Curious & Consistent Learner</h3>
+<h3 align="center">🧠 AI/ML Builder | ⚙️ Data Science Enthusiast | 💹 Finance Explorer | 🔬 Learner</h3>
 
 ---
 
@@ -43,7 +43,6 @@ Whether it’s fine-tuning LLMs, simulating investment strategies, building mess
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>

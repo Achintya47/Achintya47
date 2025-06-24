@@ -61,8 +61,8 @@ Whether it’s fine-tuning LLMs, simulating investment strategies, building mess
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=achintya-sharma&show_icons=true&theme=tokyonight" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achintya-sharma&layout=compact&theme=tokyonight" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Achintya47&show_icons=true&theme=tokyonight" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achintya47&layout=compact&theme=tokyonight" width="49%"/>
 </p>
 
 ---

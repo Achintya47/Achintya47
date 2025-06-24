@@ -1,80 +1,79 @@
-<!-- Profile README for Achintya Sharma -->
+<!-- Futuristic GitHub Profile README for Achintya Sharma -->
 
 <p align="center">
-  <img src="https://gifdb.com/images/high/gojo-satoru-moving-his-finbgers-xh94p4sfkzccdr3z.webp" width="300"/>
+  <img src="https://gifdb.com/images/high/gojo-satoru-moving-his-finbgers-xh94p4sfkzccdr3z.webp" width="280"/>
 </p>
 
-<h1 align="center">Hey, I'm Achintya Sharma 👋</h1>
-<h3 align="center">🧠 AI/ML Builder | ⚙️ Data Science Enthusiast | 💹 Finance Explorer | 🔬 Learner</h3>
+<h1 align="center" style="font-weight:bold;">Achintya Sharma ⚡</h1>
+<h3 align="center">🔬 AI Engineer in the Making | ⚙️ Systems Optimizer | 💹 Competitive & Curious</h3>
 
 ---
 
-## 🧑‍💻 About Me
-
-I'm a student at **NIT Jalandhar**, always diving deep into **AI**, **Systems Engineering**, and **Tech for Real-World Impact**.
-
-Whether it’s fine-tuning LLMs, simulating investment strategies, building mess billing systems with ESP32, or hand-coding a blockchain — I’m constantly experimenting, failing forward, and learning by doing.
+## 🧠 Inshort:  
+> I am **too competitive**.  
+> If it can be optimized, accelerated, or understood from first principles — I’m in.
 
 ---
 
-## 💡 Interests & Work
+## 🧬 About Me
 
-- 🤖 Reinforcement Learning (built agents for Taxi, Cartpole, and beyond)
-- 🧱 Blockchain (Proof-of-Work, P2P via sockets, mining, digital signatures)
-- 📊 Machine Learning (Sklearn, PyTorch, LightGBM, ensemble modeling)
-- 📦 Backend Engineering (Flask, MongoDB, WebSockets, REST APIs)
-- 📡 Embedded Systems (ESP32 + RFID + Serial comm + real-time syncing)
-- 🔧 Mechanical Optimization (Altair Inspire projects with real use-cases)
+Hey there 👋  
+I'm a deep tech enthusiast at **NIT Jalandhar**, obsessed with the craft of **understanding + building**. My work lives at the convergence of **ML, systems, finance**, and real-world engineering.
+
+Whether I'm fine-tuning LLMs or pushing a microcontroller to its edge, I enjoy learning the hard way — by breaking, fixing, and optimizing everything.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects That Hit Hard
 
-| Project | Description |
-|--------|-------------|
-| 🍽️ **Digital Muneem** | End-to-end mess management system using ESP32 & RFID cards. Real-time balances, compulsory meal tracking, and Flask backend with MongoDB. |
-| 🧱 **Blockchain Engine** | A custom Python blockchain using sockets, multithreading, and mining. Features PoW, longest chain consensus, and future CUDA acceleration. |
-| ⚙️ **Altair Optimization** | Designed and optimized real-world mechanisms like prosthetic footplates and hand pumps for rural India, using Altair Inspire. |
-| 🎮 **RL from Scratch** | Implemented Deep Q-Learning with my own MLP to learn environments like CartPole and Lunar Lander without libraries like SB3. |
-
----
-
-## 🧰 Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ESP32-4B8BBE?style=for-the-badge&logo=espressif&logoColor=white"/>
-</p>
+| 💼 Project | ⚡ Tech / Domain |
+|------------|------------------|
+| 🍽 **Digital Muneem** – Real-time mess billing with ESP32 + RFID + MongoDB + Flask | Embedded Systems, Backend, Real-Time UI |
+| 🧱 **Blockchain Engine** – From-scratch blockchain with sockets, PoW, mining, multithreading | Python, Network Systems |
+| 📈 **Finance Simulator** – Kelly Criterion, Monte Carlo, Risk Modeling | Quant Finance, Simulations |
+| ⚙️ **Altair Design Optimizer** – Prosthetic joints & water pumps for rural India | CAD + Structural Optimization |
+| 🎮 **Deep RL From Scratch** – MLP agent learning to balance CartPole & win Lunar Lander | PyTorch, Gym |
 
 ---
 
-## 📈 GitHub Stats
+## 🧰 Toolbox
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Achintya47&show_icons=true&theme=tokyonight" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achintya47&layout=compact&theme=tokyonight" width="49%"/>
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CUDA-%2376B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESP32-%234B8BBE.svg?style=for-the-badge&logo=espressif&logoColor=white"/>
 </p>
 
 ---
 
-## 🌐 Let's Connect
+## 📊 GitHub Stats
 
-<p>
-  <a href="https://linkedin.com/in/achintyasharma47" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=achintya-sharma&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achintya-sharma&layout=compact&theme=radical" width="48%"/>
+</p>
+
+---
+
+## 🌐 Let’s Link Up
+
+<p align="center">
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://medium.com/@sharmaachintya49" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-black?style=flat-square&logo=medium&logoColor=white"/>
+  <a href="https://medium.com/@yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-> ⚠️ "If you can’t build it, you don’t understand it."  
-> — Richard Feynman (and probably every project I've broken before fixing)
+> ⚡ *“The only limit is how deep you’re willing to go.”*  
+> — a mantra I follow in code, in models, and in mindset.
 

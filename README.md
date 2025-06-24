@@ -11,7 +11,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a student at *NIT Jalandhar, always diving deep into **AI, **Systems Engineering, and **Tech for Real-World Impact*.
+I'm a student at NIT Jalandhar, always diving deep into AI, Systems Engineering, and Tech for Real-World Impact.
 
 Whether it’s fine-tuning LLMs, simulating investment strategies, building mess billing systems with ESP32, or hand-coding a blockchain — I’m constantly experimenting, failing forward, and learning by doing.
 

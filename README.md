@@ -34,7 +34,7 @@ Whether it’s fine-tuning LLMs, simulating investment strategies, building mess
 |--------|-------------|
 | 🍽 *Digital Muneem* | End-to-end mess management system using ESP32 & RFID cards. Real-time balances, compulsory meal tracking, and Flask backend with MongoDB. |
 | 🧱 *Blockchain Engine* | A custom Python blockchain using sockets, multithreading, and mining. Features PoW, longest chain consensus, and future CUDA acceleration. |
-| ⚙ *Altair Optimization* | Designed and optimized real-world mechanisms like prosthetic footplates and hand pumps for rural India, using Altair Inspire. |
+| ⚙ *Altair AI Studio* | Designed and optimized a Machine Learning and Data Science pipeline for predicting Crop Yields |
 | 🎮 *RL from Scratch* | Implemented Deep Q-Learning with my own MLP to learn environments like CartPole and Lunar Lander without libraries like SB3. |
 
 ---

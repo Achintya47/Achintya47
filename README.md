@@ -1,79 +1,157 @@
-<!-- Profile README for Achintya Sharma -->
+<div align="center">
 
-<p align="center">
-  <img src="https://gifdb.com/images/high/gojo-satoru-moving-his-finbgers-xh94p4sfkzccdr3z.webp" width="300"/>
-</p>
+# Ⱥȼħɨnŧɏⱥ Şħⱥɍmⱥ 
+### 𝘈𝘐/𝘔𝘓 𝘙𝘦𝘴𝘦𝘢𝘳𝘤𝘩 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳 | 𝘓𝘦𝘢𝘳𝘯𝘦𝘳 | 𝘕𝘐𝘛 𝘑𝘢𝘭𝘢𝘯𝘥𝘩𝘢𝘳
 
-<h1 align="center">Hey, I'm Achintya Sharma 👋</h1>
-<h3 align="center">🧠 AI/ML Builder | ⚙ Data Science Enthusiast | 💹 Finance Explorer | 🔬 Learner</h3>
+</div>
 
----
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/achintyasharma47)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sharmaachintya49)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharmaachintya49@gmail.com)
 
-## 🧑‍💻 About Me
-
-I'm a student at NIT Jalandhar, always diving deep into AI, Systems Engineering, and Tech for Real-World Impact.
-
-Whether it’s fine-tuning LLMs, simulating investment strategies, building mess billing systems with ESP32, or hand-coding a blockchain — I’m constantly experimenting, failing forward, and learning by doing.
+</div>
 
 ---
 
-## 💡 Interests & Work
+## 🔬 Research Focus
 
-- 🤖 Reinforcement Learning (built agents for Taxi, Cartpole, and beyond)
-- 🧱 Blockchain (Proof-of-Work, P2P via sockets, mining, digital signatures)
-- 📊 Machine Learning (Sklearn, PyTorch, LightGBM, ensemble modeling)
-- 📦 Backend Engineering (Flask, MongoDB, WebSockets, REST APIs)
-- 📡 Embedded Systems (ESP32 + RFID + Serial comm + real-time syncing)
-- 🔧 Mechanical Optimization (Altair Inspire projects with real use-cases)
+I am deeply passionate about advancing the frontiers of **Artificial Intelligence** and **Machine Learning** through rigorous research and practical implementation. My work spans multiple domains including:
 
----
-
-## 🚀 Featured Projects
-
-| Project | Description |
-|--------|-------------|
-| 🍽 *Digital Muneem* | End-to-end mess management system using ESP32 & RFID cards. Real-time balances, compulsory meal tracking, and Flask backend with MongoDB. |
-| 🧱 *Blockchain Engine* | A custom Python blockchain using sockets, multithreading, and mining. Features PoW, longest chain consensus, and future CUDA acceleration. |
-| ⚙ *Altair AI Studio* | Designed and optimized a Machine Learning and Data Science pipeline for predicting Crop Yields |
-| 🎮 *RL from Scratch* | Implemented Deep Q-Learning with my own MLP to learn environments like CartPole and Lunar Lander without libraries like SB3. |
+- **🧠 Deep Reinforcement Learning** - Exploring novel architectures and training methodologies
+- **🔒 Adversarial Machine Learning** - Investigating model robustness and security vulnerabilities
+- **🤖 Neural Network Optimization** - Developing efficient architectures for resource-constrained environments
+- **📊 AI for Finance** - Applying ML techniques to quantitative trading and risk management
+- **🏗️ Systems Engineering** - Building scalable AI infrastructure and distributed systems
 
 ---
 
-## 🧰 Tech Stack
+## 📚 Current Research Interests
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ESP32-4B8BBE?style=for-the-badge&logo=espressif&logoColor=white"/>
-</p>
+**Primary Areas:**
+- Adversarial attacks on deep neural networks (FGSM, PGD, C&W)
+- Reinforcement learning in complex environments
+- Federated learning and privacy-preserving ML
+- Neural architecture search and automated ML
+- AI safety and interpretability
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Achintya47&show_icons=true&theme=tokyonight" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achintya47&layout=compact&theme=tokyonight" width="49%"/>
-</p>
+**Methodologies:**
+- PyTorch-based deep learning implementations
+- Mathematical optimization and algorithmic design
+- Empirical evaluation and statistical analysis
+- Reproducible research practices
 
 ---
 
-## 🌐 Let's Connect
+## 🛠️ Technical Expertise
 
-<p align='center'>
-  <a href="https://linkedin.com/in/achintyasharma47" target="_blank", align='center'>
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://medium.com/@sharmaachintya49" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-black?style=flat-square&logo=medium&logoColor=white"/>
-  </a>
-</p>
+### **Machine Learning & AI**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+### **Programming Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### **Systems & Infrastructure**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-> ⚠ "If you can’t build it, you don’t understand it."  
-> — Richard Feynman (and probably every project I've broken before fixing)
+## 🔬 Research Projects
+
+### **Adversarial Robustness in CNNs**
+*Investigating FGSM attacks on MNIST classification*
+- **Research Question**: How do small perturbations affect model confidence?
+- **Methodology**: Implemented FGSM adversarial attacks with varying epsilon values
+- **Key Finding**: 89.71% accuracy drop with ε=0.3, revealing critical vulnerabilities
+- **Impact**: Contributes to understanding of neural network robustness
+
+### **Deep Reinforcement Learning from Scratch**
+*Building RL agents without high-level libraries*
+- **Approach**: Custom MLP implementation for Deep Q-Learning
+- **Environments**: CartPole, Lunar Lander, Taxi
+- **Contribution**: Educational framework for understanding RL fundamentals
+
+### **Blockchain Systems Engineering**
+*Designing proof-of-work consensus mechanisms*
+- **Architecture**: P2P network with socket programming
+- **Features**: Mining algorithms, digital signatures, longest chain consensus
+- **Future Work**: CUDA acceleration for mining optimization
+
+---
+
+## 🏆 Featured Publications & Implementations
+
+| Project | Domain | Key Contribution |
+|---------|---------|------------------|
+| **CNN Adversarial Analysis** | AI Security | Comprehensive FGSM attack evaluation |
+| **RL Agent Framework** | Deep Learning | From-scratch implementation without SB3 |
+| **Digital Muneem** | IoT Systems | Real-time RFID-based management system |
+| **Blockchain Engine** | Distributed Systems | Custom P2P consensus protocol |
+
+---
+
+## 📊 Research Impact
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Achintya47&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Achintya47&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+**Short-term Objectives:**
+- Advancing adversarial robustness research
+- Exploring federated learning applications
+- Contributing to open-source ML libraries
+
+**Long-term Vision:**
+- Pursuing graduate research in AI safety
+- Publishing in top-tier ML conferences
+- Building production-ready AI systems
+
+---
+
+## 🤝 Collaboration
+
+I'm actively seeking research collaborations in:
+- **Adversarial Machine Learning**
+- **Reinforcement Learning Applications**
+- **AI Safety and Interpretability**
+- **Efficient Neural Architectures**
+
+**Open to**: Research internships, paper collaborations, and technical discussions with fellow researchers.
+
+---
+
+## 📬 Contact
+
+**For Research Inquiries:**
+- 📧 **Email**: sharmaachintya49@gmail.com
+- 💼 **LinkedIn**: [achintyasharma47](https://linkedin.com/in/achintyasharma47)
+- 📝 **Medium**: [@sharmaachintya49](https://medium.com/@sharmaachintya49)
+
+---
+
+<div align="center">
+
+*"In research, the journey of understanding is as valuable as the destination of discovery."*
+
+**⭐ Building AI that's both powerful and responsible**
+
+</div>
